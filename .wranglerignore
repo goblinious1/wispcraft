@@ -1,0 +1,10 @@
+node_modules/
+.pnpm/
+**/node_modules/
+**/.pnpm/
+*.log
+.DS_Store
+.vscode/
+.git/
+workerd
+**/workerd
